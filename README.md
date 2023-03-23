@@ -15,7 +15,7 @@
 
 <h3 align="left">Support:</h3>
 <p style="display:block;"><a href="https://www.buymeacoffee.com/ANILSRGT"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ANILSRGT" /></a></p><br><br>
-
+>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilsrgt&show_icons=true&theme=highcontrast&title_color=c2cc13&text_color=fbfbfb&bg_color=1d1d1d&locale=en&layout=compact" alt="anilsrgt" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilsrgt&show_icons=true&theme=highcontrast&title_color=c2cc13&text_color=fbfbfb&bg_color=1d1d1d&locale=en" alt="anilsrgt" /></p>
