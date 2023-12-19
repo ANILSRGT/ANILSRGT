@@ -32,14 +32,14 @@
 <br>
 <details>
   <br>
-  <summary>📱 My Mobile Apps</summary>
+  <summary><b>📱 My Mobile Apps</b></summary>
   <div><a href="https://bit.ly/3VArCgx" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="Word Journey" height="30" width="40" />Word Journey - Home Game Night (Apps on Google Play)</a></div>
   <br><div><a href="https://bit.ly/42NoNfq" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="Recipe Corner" height="30" width="40" />Recipe Corner - My Recipes (Apps on Google Play)</a></div>
 </details>
 <br>
 <div align='left'>
   <details>
-    <summary>⚡ GitHub Stats</summary>
+    <summary><b>⚡ GitHub Stats</b></summary>
     <br>
     <span><img align='center' src="https://github-readme-stats.vercel.app/api/top-langs?username=anilsrgt&show_icons=true&theme=highcontrast&title_color=c2cc13&text_color=fbfbfb&bg_color=1d1d1d&locale=en&layout=compact" alt="stats1" /></span>
     <span><img align='center' src="https://github-readme-stats.vercel.app/api?username=anilsrgt&show_icons=true&theme=highcontrast" alt="stats2" /></span>
