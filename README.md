@@ -8,7 +8,7 @@
 
 ![](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-I completed my Bachelor's degree in Computer Engineering at Istanbul Gelisim University. I have worked as both an intern and a full-time employee. During this period, I gained experience in developing casual and hyper-casual mobile games on the Unity platform. Additionally, I developed and published two mobile applications in the field of mobile application development using Dart (Flutter). Currently, I am continuing to improve myself in both Unity and Flutter fields.
+I completed my Bachelor's degree in Computer Engineering at Istanbul Gelişim University. During this period, I worked as an intern and full-time employee at several companies. I gained experience in developing casual and hyper-casual mobile games on the Unity platform. Additionally, I published two applications developed with Flutter on Google Play and am currently furthering my skills in Flutter.
 
 ![](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
