@@ -40,10 +40,6 @@ I completed my Bachelor's degree in Computer Engineering at Istanbul Gelişim Un
 [![WORD_JOURNEY](https://img.shields.io/badge/-WORD_JOURNEY-FFD700?style=for-the-badge&logo=google-play&logoColor=white)](https://bit.ly/3VArCgx)
 [![RECIPE_CORNER](https://img.shields.io/badge/-RECIPE_CORNER-FFD700?style=for-the-badge&logo=google-play&logoColor=white)](https://bit.ly/42NoNfq)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" alt="🏅" width="25" height="25"> Support
-
-[![BUY_ME_A_COFFEE](https://img.shields.io/badge/-BUY_ME_A_COFFEE-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/ANILSRGT)
-
 <details>
 <summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="⚡" width="25" height="25"> GitHub Stats</h3></summary>
 <div align='center'>
